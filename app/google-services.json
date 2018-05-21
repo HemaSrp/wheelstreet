@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328330345746",
+    "firebase_url": "https://wheelstreet-c26aa.firebaseio.com",
+    "project_id": "wheelstreet-c26aa",
+    "storage_bucket": "wheelstreet-c26aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328330345746:android:54baa2e0d039d9a3",
+        "android_client_info": {
+          "package_name": "com.wheelstreet.wheelstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328330345746-qijin1ubedikcm0e693g463sbrbk78mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wheelstreet.wheelstreet",
+            "certificate_hash": "44f02faecfcab15be557c1c5cb056254eaf4de24"
+          }
+        },
+        {
+          "client_id": "328330345746-bg0en7cv1qp8ee3vokjv63jbt14pqobd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCmxcSmclgRvXaZmoKGYPh6M-ZEFuzJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328330345746-bg0en7cv1qp8ee3vokjv63jbt14pqobd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

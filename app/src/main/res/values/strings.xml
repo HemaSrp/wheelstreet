@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WheelStreet</string>
+    <string name="slide_1_title">Lorem Ipsum!</string>
+    <string name="slide_1_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="slide_2_title">Lorem Ipsum!</string>
+    <string name="slide_2_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+    <string name="facebook_app_id">228745101191363</string>
+    <string name="fb_login_protocol_scheme">fb228745101191363</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Chat</string>
+    <string name="title_notifications">Profile</string>
+
+
+</resources>
